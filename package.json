@@ -88,7 +88,8 @@
     "sails-util": "~0.10.3",
     "semver": "~2.2.1",
     "skipper": "~0.5.3",
-    "prompt": "~0.2.13"
+    "prompt": "~0.2.13",
+    "socket.io": "~0.9.14"
   },
   "devDependencies": {
     "root-require": "~0.2.0",
